@@ -1,0 +1,96 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>sitios web</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<header>
+	<img src="images/header.png" width="500" height="150" alt="logotipo">	
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">DISEÑO DE SITIOS WEB</a></h1>			
+		</div>
+		<div id="logou">
+			
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li class="current_page_item"><a href="#">Inicio</a></li>
+			<li><a href="#">Lecturas</a></li>
+			<li><a href="multimedia/videos.html">Multimedia</a></li>
+			<li><a href="#">Autores</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content">
+					<div class="post">
+						<h2 class="title"><a>Bienvenido al curso</a></h2>
+						<div class="entry">							
+							<p>En este Objeto Virtual de Información, con mucho gusto les estaremos dando a saber sobre código de etiquetado HTML que se puede utilizar en los innumerables sitios web, esperamos que este curso sea de su agrado importante que conozcan, lenguaje de marcas, distinto a los demás ya que permiten a partir de etiquetas, distintas funciones en el proceso de desarrollo web, sean todos cordialmente invitados a conocer del nuevo auge en la revolución informática.</p>
+						</div>
+					</div>
+					<div class="post">
+						<h2 class="title"><a href="#">Lorem ipsum sed aliquam</a></h2>
+						<p class="meta">Posted by <a href="#">Someone</a> on March 8, 2008
+							&nbsp;&bull;&nbsp; </a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
+						<div class="entry">
+							<p><img src="images/img06.jpg" width="143" height="143" alt="" class="alignleft border" />Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum vel, tempor at, varius non, purus. Mauris vitae nisl nec metus placerat consectetuer. Donec ipsum. Proin imperdiet est. Phasellus <a href="#">dapibus semper urna</a>. Pellentesque ornare, consectetuer nisl felis ac diam.</p>
+						</div>
+					</div>
+					<div class="post">
+						<h2 class="title"><a href="#">Phasellus pellentesque turpis </a></h2>
+						<p class="meta">Posted by <a href="#">Someone</a> on March 8, 2008
+							&nbsp;&bull;&nbsp;  <a href="#" class="permalink">Full article</a></p>
+						<div class="entry">
+							<p><img src="images/img05.jpg" width="143" height="143" alt="" class="alignleft border" />Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum vel, tempor at, varius non, purus. Mauris vitae nisl nec metus placerat consectetuer. Donec ipsum. Proin imperdiet est. Pellentesque ornare, orci in consectetuer hendrerit, urna elit eleifend nunc.</p>
+						</div>
+					</div>
+					<div style="clear: both;">&nbsp;</div>
+				</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<h2>Navegación</h2>
+							<ul>
+								<li><a href="#">Inicio</a></li>
+								<li><a href="#">Lecturas</a></li>
+								<li><a href="multimedia/videos.html">Multimedia</a></li>
+								<li><a href="#">Autores</a></li>
+							</ul>
+						</li>
+						<li>
+							<h2>Autores</h2>
+							<ul>
+								<li><a>Oscar Javier Moreno Quiceno</a></li>
+								<li><a>Mauricio Efrain Patiño</a></li>
+								<li><a>Jose Hernando Bejarano</a></li>
+								<li><a>Julio Cesar Proaños</a></li>
+								<li><a>Oswaldo Giron</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page -->
+</div>
+	<div id="footer">
+		<p><a href="">Curso de Diseño Web</a>.</p>
+	</div>
+</header>
+<!-- end #footer -->
+</body>
+</html>

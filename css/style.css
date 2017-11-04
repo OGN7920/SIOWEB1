@@ -1,0 +1,154 @@
+#contenedor{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+    position: relative;
+
+}
+
+body{
+    background: white; 
+}
+
+header{
+	width: 1200px;
+	height: 215px;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+
+h1{
+   color:#004669;
+   font-size: 25px;
+   text-align: center;
+}
+
+h2{
+   color:#004669;
+   font-size: 15px;
+   text-align: center;
+}
+
+
+nav{
+
+   width: 1200px;
+   height: 50px;
+   background: #004669;
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+   margin-bottom: 10px;
+   border-style: solid;
+   border-color: #004669;
+}
+
+ul{
+	margin: auto;
+	padding-top: 4px;
+}
+
+li{
+	float:left;
+	list-style-type: none;
+	margin:5px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+}
+
+.menu:link{color:white; text-decoration: none}
+.menu:visited{color:white;text-decoration: none;}
+.menu:hover{color:white;text-decoration: none; background:#e7b200;}
+.menu:active{color:white;text-decoration: none;}
+
+section{
+
+	width:680px;
+	height:1000px;
+	float:left;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+}
+
+aside{
+
+	width:488px;
+	height:1000px;
+	float:left;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px
+}
+
+footer{
+	width: 1200px;
+	height: 200px;
+	background: black;
+	color:white;
+	float:left;
+	border-style: solid;
+	border-color: black;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+}
+
+p{
+	padding: 10px;
+	text-align: justify;
+}
+
+h5{
+	padding: 10px;
+	font-size: 25px;
+}
+
+#img1{
+	padding: 10px;
+	width: 560px;
+}
+
+#footer{
+
+	padding: 30px;
+	font-size: 40px;
+	text-decoration: bold;
+}
+
+#video1{
+	padding: 10px;
+}
+
+h6{
+	padding: 30px;
+	color:white;
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
