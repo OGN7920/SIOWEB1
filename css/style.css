@@ -70,8 +70,7 @@ a{
 
 section{
 
-	width:680px;
-	height:1050px;
+	width:500px;
 	float:left;
 	border-style: solid;
 	border-color: #004669;
@@ -82,9 +81,7 @@ section{
 
 aside{
 
-	width:488px;
-	height:1050px;
-	float:left;
+	width:500px;
 	border-style: solid;
 	border-color: #004669;
 	border-top-right-radius: 10px;
