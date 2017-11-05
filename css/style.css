@@ -87,22 +87,22 @@ aside{
 	float:left;
 	border-style: solid;
 	border-color: #004669;
-	border-top-right-radius: 10px;
-	border-bottom-left-radius: 10px;
+	border-top-right -radius: 10px;
+	border-bottom-left -radius: 10px;
 	margin-bottom: 10px;
 	margin-left: 20px
 }
 
 footer{
 	width: 1200px;
-	height: 200px;
+	height:200px;
 	background: black;
 	color:white;
 	float:left;
 	border-style: solid;
 	border-color: black;
-	border-top-right-radius: 10px;
-	border-bottom-left-radius: 10px;
+	border-top-right -radius: 10px;
+	border-bottom-left -radius: 10px;
 	margin-bottom: 10px;
 }
 
