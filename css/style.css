@@ -71,6 +71,7 @@ a{
 section{
 
 	width:500px;
+	height:800px;
 	float:left;
 	border-style: solid;
 	border-color: #004669;
@@ -82,6 +83,8 @@ section{
 aside{
 
 	width:500px;
+	height:800px;
+	float:left;
 	border-style: solid;
 	border-color: #004669;
 	border-top-right-radius: 10px;
