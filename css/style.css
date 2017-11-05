@@ -83,7 +83,7 @@ section{
 aside{
 
 	width:488px;
-	height:1000px;
+	height:1050px;
 	float:left;
 	border-style: solid;
 	border-color: #004669;
@@ -123,8 +123,8 @@ h5{
 
 #footer{
 
-	padding: 15px;
-	font-size: 25px;
+	padding: 30px;
+	font-size: 40px;
 	text-decoration: bold;
 }
 
